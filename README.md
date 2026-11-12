@@ -50,7 +50,7 @@ Built and tested using Wokwi.
 This project uses simulated sensor inputs for learning and demonstration. It is not a calibrated or certified electricity meter and is not designed for direct mains-voltage measurement.
 ## Project Screenshots
 
-## Project Screenshots
+
 
 ### Circuit Diagram
 ![ESP32 Circuit](<esp circuit screenshot.png>)
