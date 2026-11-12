@@ -48,6 +48,13 @@ Built and tested using Wokwi.
 
 ## Important Note
 This project uses simulated sensor inputs for learning and demonstration. It is not a calibrated or certified electricity meter and is not designed for direct mains-voltage measurement.
+## Project Screenshots
+
+### Circuit Diagram
+![Circuit](screenshots/circuit.png)
+
+### Simulation Output
+![LCD Display](screenshots/lcd-display.png)
 
 ## Author
 Venudharrreddy2-maker
